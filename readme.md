@@ -21,7 +21,7 @@ To share brief, **30 second**, impactful introductions of each squad member, foc
 
 - Opening (5-10 seconds): Start with a strong, engaging sentence that introduces the core of your story, such as, "Facing eviction, I found solace and hope in the lines of code I began to learn late at night..."
 - Middle (15-20 seconds): Share the essence of your journey, focusing on a pivotal challenge, how you overcame it, and the role programming played in this process. Highlight any significant life experience that led to a sense of achievement or realization.
-- Conclusion (5 seconds): End with your name and your current role, tying it back to your journey, "And that's how I, Maria Chen, turned my trials into a triumph as a software developer."
+- Conclusion (5 seconds): End with your name and your current role, tying it back to your journey, e.g. "And that's how I, Maria Chen, turned my trials into a triumph as a software developer." or "My name is Roberto Mbunga and I am proud to be a fullstack web developer"
 
 #### Squad Presentation Instructions (Preparation Time: 30 minutes)
 
