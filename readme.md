@@ -15,7 +15,8 @@ To share brief, **30 second**, impactful introductions of each squad member, foc
 - Reflect on your life experiences, especially focusing on your background and experiences. Consider how these experiences contributed to your path into programming and to Pursuit.
 - Identify a key experience or moment that was a turning point for you in deciding to pursue a career in tech at Pursuit.
 - Craft a concise narrative that ties together your life experience with your decision to become a programmer. Your story should aim to inspire and resonate with others who may have faced similar obstacles.
-  Rehearse your story to ensure it's impactful yet fits within the 30-second time frame.
+- Rehearse your story to ensure it's impactful yet fits within the 30-second time frame.
+- Write your story on paper or on an index card to present from.
 
 #### Presentation Structure
 
