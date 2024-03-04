@@ -29,6 +29,7 @@ To share brief, **30 second**, impactful introductions of each squad member, foc
 
 - Discuss and decide on the order of presentations.
 - Do a practice run based on this order. (each fellow should know who precedes them and be ready to start when that fellow finishes)
+- Run a timer to make sure each fellow stays within 30 seconds.
 - Consider changing the order based on similarity in story. (your choice whether to put similarities together or split apart. Both can be impactful)
 
 #### Finale
