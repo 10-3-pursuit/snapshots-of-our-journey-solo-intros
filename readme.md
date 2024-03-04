@@ -34,3 +34,5 @@ To share brief, **30 second**, impactful introductions of each squad member, foc
 #### Finale
 
 Present your introductions to the class as a squad.
+
+**GOOD LUCK!**
