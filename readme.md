@@ -1,4 +1,4 @@
-# Snapshots of Our Journeys to Tech Exercise
+# Snapshots of Our Journeys to Tech
 
 <img src="./digital-journey.webp" width="500" height="500">
 
