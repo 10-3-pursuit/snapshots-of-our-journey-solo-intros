@@ -8,7 +8,7 @@ To share brief, **30 second**, impactful introductions of each squad member, foc
 
 ## Instructions for Each Team Member
 
-### INDEPENDANTLY
+### Independant Preparation
 
 #### Prepare Your Story (Preparation Time: 30 minutes)
 
