@@ -1,4 +1,4 @@
-# Title: "Digital Snapshots: Our Journeys to Tech"
+# Snapshots of Our Journeys to Tech Exercise
 
 ## Objective:
 
