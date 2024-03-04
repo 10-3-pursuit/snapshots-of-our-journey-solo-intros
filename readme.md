@@ -31,6 +31,6 @@ To share brief, **30 second**, impactful introductions of each squad member, foc
 - Do a practice run based on this order. (each fellow should know who precedes them and be ready to start when that fellow finishes)
 - Consider changing the order based on similarity in story. (your choice whether to put similarities together or split apart. Both can be impactful)
 
-### Finale
+#### Finale
 
 Present your introductions to the class as a squad.
