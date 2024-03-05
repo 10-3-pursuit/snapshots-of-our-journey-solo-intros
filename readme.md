@@ -4,7 +4,7 @@
 
 ## Objective:
 
-To share brief, **30 second**, impactful introductions of each squad member, focusing on the unique life experiences and journeys into programming, especially highlighting life circumstances backgrounds that lead you to Pursuit.
+To share a brief, **30-45 second**, impactful introduction of yourself, focusing on your unique life experiences and journeys into programming, especially highlighting life circumstances backgrounds that lead you to Pursuit.
 
 ## Instructions for Each Team Member
 
